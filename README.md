@@ -62,6 +62,3 @@ ai-rfp/
 5. **Compare Proposals:** AI ranks vendors, summarizes strengths/weaknesses, and provides recommended selection  
 
 ---
-
-**Author:** Shakthi  
-GitHub: [https://github.com/shakthi215](https://github.com/shakthi215)
